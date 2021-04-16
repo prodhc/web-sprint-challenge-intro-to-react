@@ -10,8 +10,7 @@ export default function Character(props) {
 		justify-content: space-between;
 		align-items: center;
 		margin: 0 5%;
-		text-shadow: 5px 5px 10px #5c5c5c;
-		font-size: 1.5rem;
+		font-size: 1rem;
 	`;
 
 	return (

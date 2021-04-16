@@ -13,7 +13,7 @@ export default function CharactersCard(props) {
 		background-color: rgba(255, 255, 255, 0.3);
 		border-radius: 20px;
 		margin: 1rem auto;
-		width: 80%;
+		width: 70%;
 		color: white;
 		box-shadow: 5px 5px 10px #5c5c5c;
 	`;
